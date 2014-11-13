@@ -1,0 +1,1 @@
+TransloaditClient = Npm.require('transloadit');
