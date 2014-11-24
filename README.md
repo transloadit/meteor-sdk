@@ -5,7 +5,7 @@ This smart package exposes the official Transloadit Meteor API from the node.js 
 
 This Meteor package is licensed under the MIT license.
 
-This uses version 1.2.0 of the Transloadit node.js package and the new meteor 0.6.5.1+ npm bindings.
+This uses version 1.2.1 of the Transloadit node.js package and the new meteor 0.6.5.1+ npm bindings.
 
 #### To Install
 
