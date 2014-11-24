@@ -151,10 +151,6 @@ With contributions from:
 * [Jim Gibbs](https://www.linkedin.com/pub/james-gibbs/0/8/4ab)
 
 
-Thanks to:
-
-* Ian Hansen for donating the `transloadit` npm name. You can still access his code under `v0.0.0`.
-
 ## License
 
 [MIT Licensed](LICENSE).
