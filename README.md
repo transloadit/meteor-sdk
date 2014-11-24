@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/transloadit/meteor-sdk.svg)](https://travis-ci.org/transloadit/meteor-sdk)
+
 Transloadit Meteor API bindings
 ===============================
 
