@@ -3,6 +3,6 @@
    "description": "Transloadit API Wrapper for Meteor",
    "homepage": "http://transloadit.com",
    "author": "Joe Danziger",
-   "version": "0.1.1",
+   "version": "0.1.2",
    "git": "https://github.com/transloadit/meteor-sdk.git"
 }
